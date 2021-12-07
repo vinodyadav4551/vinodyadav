@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int area,squire;
+    cout << "enter area in squire\n";
+    cin >> area;
+    squire=area*area*area ;
+    cout << "\nvolum of squire\n" << squire;
+ return 0;
+ }
