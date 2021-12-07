@@ -7,4 +7,5 @@ int main()
     cin >> area;                        
     squire=area*area;                     
     cout << "\narea of squire\n" << squire;
-    
+return 0; 
+}   
