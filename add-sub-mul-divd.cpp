@@ -14,12 +14,8 @@ int main()
    e=a*b;
    f=a/b;
     cout << c << endl;
-       
     cout << d << endl;
     cout << e << endl;
     cout << f << endl;
-    
-    
-  
-    
+    return 0; 
 }
