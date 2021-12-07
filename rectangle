@@ -1,0 +1,16 @@
+#include <iosectangtream>
+using namespace std;
+int main()
+{
+    int lenght,width,rectangle;
+    cout << "enter langht\n";
+    cin >> lenght;
+    cout << "enter width\n";
+    cin >> width;
+    
+    rectangle=lenght*width;
+    
+    
+    cout <<"area of rectangle\n" << rectangle;
+
+}
